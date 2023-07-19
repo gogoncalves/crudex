@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cowlib" type="mix">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/cowlib/src" />
+      <root url="file://$PROJECT_DIR$/deps/cowlib/src" />
+      <root url="file://$PROJECT_DIR$/deps/cowlib/src" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="telemetry_metrics" type="mix">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/telemetry_metrics/lib" />
+      <root url="file://$PROJECT_DIR$/deps/telemetry_metrics/lib" />
+      <root url="file://$PROJECT_DIR$/deps/telemetry_metrics/lib" />
+    </SOURCES>
+  </library>
+</component>

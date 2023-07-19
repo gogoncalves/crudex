@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="swoosh" type="mix">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/swoosh/lib" />
+      <root url="file://$PROJECT_DIR$/deps/swoosh/lib" />
+      <root url="file://$PROJECT_DIR$/deps/swoosh/lib" />
+    </SOURCES>
+  </library>
+</component>

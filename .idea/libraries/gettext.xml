@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gettext" type="mix">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/gettext/lib" />
+      <root url="file://$PROJECT_DIR$/deps/gettext/lib" />
+      <root url="file://$PROJECT_DIR$/deps/gettext/lib" />
+    </SOURCES>
+  </library>
+</component>

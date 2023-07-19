@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="phoenix_template" type="mix">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/phoenix_template/lib" />
+      <root url="file://$PROJECT_DIR$/deps/phoenix_template/lib" />
+      <root url="file://$PROJECT_DIR$/deps/phoenix_template/lib" />
+    </SOURCES>
+  </library>
+</component>

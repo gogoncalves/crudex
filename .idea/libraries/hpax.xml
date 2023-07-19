@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hpax" type="mix">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/hpax/lib" />
+      <root url="file://$PROJECT_DIR$/deps/hpax/lib" />
+      <root url="file://$PROJECT_DIR$/deps/hpax/lib" />
+    </SOURCES>
+  </library>
+</component>

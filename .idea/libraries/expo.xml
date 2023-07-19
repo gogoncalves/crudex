@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="expo" type="mix">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/expo/lib" />
+      <root url="file://$PROJECT_DIR$/deps/expo/src" />
+      <root url="file://$PROJECT_DIR$/deps/expo/lib" />
+      <root url="file://$PROJECT_DIR$/deps/expo/src" />
+      <root url="file://$PROJECT_DIR$/deps/expo/lib" />
+      <root url="file://$PROJECT_DIR$/deps/expo/src" />
+    </SOURCES>
+  </library>
+</component>

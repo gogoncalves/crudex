@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="esbuild" type="mix">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/esbuild/lib" />
+      <root url="file://$PROJECT_DIR$/deps/esbuild/lib" />
+      <root url="file://$PROJECT_DIR$/deps/esbuild/lib" />
+    </SOURCES>
+  </library>
+</component>
